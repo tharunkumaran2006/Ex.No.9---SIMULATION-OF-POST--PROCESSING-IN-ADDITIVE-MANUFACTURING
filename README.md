@@ -46,9 +46,17 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## OUTPUT:
-https://github.com/tharunkumaran2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/edit/main/README.md
-### Name:
-### Register Number:
+![image](https://github.com/tharunkumaran2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625188/6aecedf0-47a6-499e-9ef2-43c252b3785a)
+![image](https://github.com/tharunkumaran2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625188/cbdbfc29-ec90-4100-b247-c699c4c6cd4b)
+![image](https://github.com/tharunkumaran2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625188/bcf43b40-1718-44f0-89bb-c3aa3d09bc5f)
+![image](https://github.com/tharunkumaran2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625188/6f40ecef-821e-4f73-90d5-b404dd06c01c)
+![image](https://github.com/tharunkumaran2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625188/fc94d5e1-f191-4bea-a70a-1985a5a2794a)
+![image](https://github.com/tharunkumaran2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625188/bf36bbf1-feaa-4aaf-aa39-4fab2c68355b)
+
+
+
+### Name:Tharun V K
+### Register Number:23003686
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
